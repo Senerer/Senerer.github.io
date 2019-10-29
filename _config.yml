@@ -1,7 +1,7 @@
 # Site settings
 title: 嘿~
 SEOTitle: 英俊的博客 
-header-img: img/805ad2604b2ecea95722408dde596fa5.jpg
+header-img: img/e7619e2fb4e846d7823888a4f6fb802a.jpg
 email: 961088451@qq.com
 description: "Hi！这里刘英俊！你好呀~"
 keyword: "英俊, 刘英俊, 刘英俊的博客, 刘韩君, junjun, serena，算法"
@@ -61,14 +61,14 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#  repo: qiubaiying.github.io    #仓库名称
+#  owner: qiubaiying    #github用户名
+#  admin: qiubaiying
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
