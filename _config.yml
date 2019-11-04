@@ -1,5 +1,5 @@
 # Site settings
-title: 嘿~
+title: 嘿~这里是刘英俊
 SEOTitle: 英俊的博客 
 header-img: img/e7619e2fb4e846d7823888a4f6fb802a.jpg
 email: 961088451@qq.com
@@ -19,7 +19,7 @@ sidebar-avatar: /img/b5f337e27effa501a3f603b8cbe51002.jpg     # use absolute URL
 # SNS settings
 RSS: false
 # weibo_username:     不记得了
-zhihu_username:     liuhanjun
+#zhihu_username:     liuhanjun
 github_username:    serener
 #qq_username:    961088451
 #facebook_username:  baiying.qiu.7
